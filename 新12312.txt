@@ -1,0 +1,13 @@
+
+
+
+代理 
+企业信息 agentAgency
+企业信用码 agentAgencyCode
+招投标系统账号  
+
+
+招标人    
+企业信息 tenderee
+企业信用码  tendereeCode
+招投标系统账号  
