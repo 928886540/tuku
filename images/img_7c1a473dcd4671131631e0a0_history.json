@@ -1,52 +1,47 @@
 [
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00072_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843039954,
+    "time": 1775843522917,
     "sort": 1
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00074_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843040954,
+    "time": 1775843523917,
     "sort": 2
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00076_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843041954,
+    "time": 1775843524917,
     "sort": 3
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00077_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843042954,
+    "time": 1775843525917,
     "sort": 4
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00079_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843043954,
+    "time": 1775843526917,
     "sort": 5
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00080_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843044954,
+    "time": 1775843527917,
     "sort": 6
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00081_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843045954,
+    "time": 1775843528917,
     "sort": 7
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00082_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843046954,
+    "time": 1775843529917,
     "sort": 8
   },
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00083_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775843047954,
+    "time": 1775843530917,
     "sort": 9
-  },
-  {
-    "url": "comfy_pending://06b433cc-f2da-492b-af26-84ccfc9d33c9#0",
-    "time": 1775843048954,
-    "sort": 10
   }
 ]
