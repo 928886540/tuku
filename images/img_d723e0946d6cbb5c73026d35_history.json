@@ -1,7 +1,17 @@
 [
   {
     "url": "http://10.0.2.2:8188/api/view?filename=img_00072_.png&subfolder=default_save%5C2026-04-10&type=output",
-    "time": 1775835184992,
+    "time": 1775835449917,
     "sort": 1
+  },
+  {
+    "url": "http://10.0.2.2:8188/api/view?filename=img_00074_.png&subfolder=default_save%5C2026-04-10&type=output",
+    "time": 1775835450917,
+    "sort": 2
+  },
+  {
+    "url": "comfy_pending://6971f19f-25a7-4ce6-adcd-38cdb44c777d#0",
+    "time": 1775835451917,
+    "sort": 3
   }
 ]
